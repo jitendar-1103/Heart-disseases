@@ -1,1 +1,1 @@
-# Heart-disseases
+# Heart-diseases
